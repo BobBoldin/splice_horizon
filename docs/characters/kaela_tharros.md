@@ -1,9 +1,9 @@
 # Kaela Tharros
 
-**Role:** Teen daughter
+**Role:** Teen daughter. Ship smart. Future agency arc.
 
-**Voice:** Clear, direct
+**Physical Description:** Slender, long chestnut hair in a messy braid, green eyes, early tremors and fatigue, ship standard tunics with pins and patches.
 
-**Notes:**
-- Budding romance with Joren
-- Ship-smart
+**Motivations:** Refuse to be defined by illness. Claim a future of her own choosing. Be seen beyond the doctor daughter.
+
+**Personality Traits:** Intelligent, curious, rebellious. Fiercely protective of Liora. Masks fear with defiance.

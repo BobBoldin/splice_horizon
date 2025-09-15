@@ -1,9 +1,9 @@
-# Elias Tharros
+# Dr. Elias Tharros
 
-**Role:** Chief physician; splice research lead
+**Role:** Chief physician. Xenobiology and Tissue Integration. Splice research lead.
 
-**Voice:** Soft-spoken, practical
+**Physical Description:** Lean build, dark brown hair with early gray at the temples, angular face, tired hazel eyes, steady scarred surgeon hands, utilitarian clothing.
 
-**Notes:**
-- Cares about safety; keeps kits light
-- On comms during first-landing
+**Motivations:** Save his wife and daughter. Prove hybridization as survival. Leave a meaningful legacy.
+
+**Personality Traits:** Obsessive, brilliant, methodical. Appears cold in focus but compassionate in private. Struggles to balance empathy with ambition.

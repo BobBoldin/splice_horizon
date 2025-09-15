@@ -1,8 +1,9 @@
-# Amaris Colvern
+# Director Amaris Colvern
 
-**Role:** Sponsor liaison
+**Role:** Military sponsor liaison.
 
-**Voice:** Cool, executive
+**Physical Description:** Dark jacket, sponsor badge, neat contained posture.
 
-**Notes:**
-- Pushes for performance specimens
+**Motivations:** Deliver performance class specimens to sponsor labs. Keep schedules on track.
+
+**Personality Traits:** Cool and executive. Pushes without raising volume. Prefers private leverage.

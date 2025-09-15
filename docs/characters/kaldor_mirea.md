@@ -1,8 +1,9 @@
-# Kaldor Mirea
+# Councillor Kaldor Mirea
 
-**Role:** Council; ops
+**Role:** Continuance Council. Operations and pragmatics.
 
-**Voice:** Direct
+**Physical Description:** Compact and athletic, short natural hair, steady gaze.
 
-**Notes:**
-- Keeps scope tight; no stunts
+**Motivations:** Keep the ship moving. Avoid grandstanding. Safety first.
+
+**Personality Traits:** Low, direct voice. Field minded. Trims speeches. Backs clean orders.

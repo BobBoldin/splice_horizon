@@ -1,8 +1,9 @@
-# Hollis Venner
+# Councillor Hollis Venner
 
-**Role:** Council; rules & records
+**Role:** Continuance Council. Rules and records.
 
-**Voice:** Precise
+**Physical Description:** Thin and careful, wire rimmed lenses, tidy binder with ribbon tabs.
 
-**Notes:**
-- Guards Charter; drafts motions
+**Motivations:** Keep the Charter intact. Prevent emergency rules from becoming habit.
+
+**Personality Traits:** Precise and formal. Risk averse on paper, fair in the room.

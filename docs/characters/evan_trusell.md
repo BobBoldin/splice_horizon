@@ -1,8 +1,9 @@
 # Evan Trusell
 
-**Role:** Clerk of Record
+**Role:** Clerk of Record. Sealed session minutes.
 
-**Voice:** Neutral
+**Physical Description:** Neutral suit, seal badge, clean careful hands.
 
-**Notes:**
-- Longhand in sealed sessions
+**Motivations:** Accurate minutes. Clean chain of custody for sealed notes.
+
+**Personality Traits:** Clear and uncolored. Exact with words. Invisible until needed.

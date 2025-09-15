@@ -1,8 +1,5 @@
 # Rhea Halden
 
-**Role:** Wardens specialist; field lead
+**Role:** Wardens specialist. Field lead.
 
-**Voice:** Low, steady
-
-**Notes:**
-- Plain idioms; focus coach
+**Notes:** Plain idioms. Focus coach. Voice low and steady.
