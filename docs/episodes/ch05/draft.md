@@ -178,7 +178,7 @@ Halden finished her water. She wiped a drop from her lip with the back of one kn
 
 "I can walk," Dax said.
 
-They let quiet sit. It was not empty. It held the shape of what would come next without needing a speech.
+They let the silence settle. It wasn't awkward; instead, it carried the anticipation of what might come next, needing no words to fill it.
 
 Nyra turned to Halden. "Tell me one more thing you like," she said, playful again. "Face, hands, voice."
 

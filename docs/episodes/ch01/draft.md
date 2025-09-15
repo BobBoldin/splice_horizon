@@ -34,9 +34,9 @@ The resident stood at his shoulder. Gloves rasped softly when he shifted. "Docto
 
 The suction tip sang a thin, steady note. The scent of iron rose and faded as the field cleared. The resident exhaled. His breath fogged the lower edge of his face shield and he pulled back a finger width.
 
-"Do not celebrate early," Elias said. "The lattice must couple. No coupling, no hold."
+"Don't celebrate just yet," Elias said. "The lattice has to couple; if it doesn't, it won't hold."
 
-A soft chirp from the monitor changed timbre. It was not loud. It did not need to be.
+The monitor gave a soft chirp and the timbre shifted. The sound stayed low and clear enough to guide him..
 
 "New bleed," Elias said. "Source is not in plane. I am adjusting."
 
@@ -68,7 +68,7 @@ Elias searched for the plane of the tear. Blood is not a single color in the fie
 
 "No," Elias said. "We want purchase, not mass."
 
-He steadied his hands at the edge of the field. The gloves squeaked when he eased pressure. A faint tremor touched the lintel of the surgical lamp, not from his hands, but from the building's ventilation change as the night cycle deepened. The ship would have called this ordinary. The body under his hands did not.
+He steadied his hands at the edge of the field. The gloves squeaked when he eased pressure. A faint tremor touched the lintel as the building's ventilation shifted with the deepening night. The ship would have called this ordinary. The body under his hands felt every small change.
 
 "Pressure is now low," the anesthetist said. "Heart rate is irregular."
 

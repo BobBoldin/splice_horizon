@@ -18,7 +18,7 @@ Elias came in clear from the Lattice Suite. "Medical online. Model is armed. Ton
 
 Mira followed on channel two, voice warm and steady. "Decon intake P D three is green. Cage crew will receive on your call."
 
-Draeven stepped to Hale while Dax ran a gentle fan test that lifted his hair and set it back again. Hale knelt by Kestrel Two's outrigger and ran her fingertips over each smart coupler, not just reading the lights, but letting touch find what eyes might miss.
+Draeven stepped to Hale while Dax ran a gentle fan test that lifted his hair and set it back again. Hale knelt by Kestrel Two's outrigger and ran her fingertips over each smart coupler, read the lights, and let touch find what the eyes might miss.
 
 "Report," Draeven said.
 
@@ -70,7 +70,7 @@ Elias raised the tone in their helmets a small degree. "Tone rising with the mod
 
 "Kestrel One ready for Tone Lock," Dax said. He rode the bars with loose elbows and an easy jaw, the posture of a pilot who respected machines and expected them to answer in kind.
 
-Hale matched his calm. She glanced once at the coupler lights, not to argue with them, but to let the rig feel seen. Each outboard arm showed green. The pod under her right hand waited like a promise.
+Hale matched his calm. She glanced once at the coupler lights to acknowledge the rig and confirm the readout. Each outboard arm showed green. The pod under her right hand waited like a promise.
 
 Nyra traced a clean line on her slate. "Shimmer at two o clock on the ridge face," she said. "Distance thirty meters. Pattern matches Sunfan movement."
 
@@ -116,7 +116,7 @@ The lower Sunfan moved again along the same smooth line, plates clicking in quic
 
 Elias lifted the tone a breath to mark timing. "You are near the call," he said. "Hands easy. Let the tone do its work."
 
-Hale adjusted one finger width and felt the skimmer answer with quiet trust. The couplers hummed on their arms, not sound, but balance she had learned to hear through her palms.
+Hale adjusted one finger width and felt the skimmer answer with quiet trust. The couplers hummed on their arms, a balance she had learned to sense through her palms.
 
 "On my word," Draeven said, eyes on spacing.
 
@@ -208,7 +208,7 @@ The cart tech set a hand on the door and pushed. The hinges answered like a well
 
 "Latch confirmed," Nyra said from the slate, as if she had watched the line drawing close on a map and loved it.
 
-"Tone down," Elias said. The sound faded in the helmets until it was a ghost and then it was not there at all.
+"Tone down," Elias said. The sound faded in the helmets to a ghost and then to silence.
 
 For a moment no one spoke. The skimmers hovered a little above the floor. The dust settled as if it too had decided that quiet was the right answer.
 
@@ -250,7 +250,7 @@ Nyra stepped closer with her slate and turned it so the heat band map faced them
 
 "We will," Draeven said. "Not today."
 
-Across the bay, the cage door faced a window with privacy film. Behind it, a light lifted and fell as if someone were breathing very quietly. That would be the cooling pads finding their rhythm, Mira would say later, not a soul, not a sleep, but a pattern that wanted to be understood.
+Across the bay, the cage door faced a window with privacy film. Behind it, a light lifted and fell as if someone were breathing very quietly. Later, Mira would explain it was simply the cooling pads settling into their rhythm. It was not a soul or a sleep, just a pattern waiting to be understood.
 
 "Medical," Draeven said. "You have a living Sunfan inbound to glass in one hour."
 
@@ -268,7 +268,7 @@ Elias stood at the console with the room dimmed to a soft gray. Behind the safet
 
 Mira set a fingertip on the control and brought the note up just enough to rest on the skin. The sound did not fill the room. It sat where it had been placed and asked nothing.
 
-A light along the plate's hinge brightened by a fraction and faded. It was not proof. It was not a win. It was a hello.
+A faint light along the plate's hinge brightened for a moment and faded. It was not confirmation, nor was it a victory. It was simply a greeting.
 
 Mira saw it too. "I have it," she said. "Mark one small response at the root."
 

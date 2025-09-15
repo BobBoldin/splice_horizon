@@ -84,9 +84,9 @@ Murmur ran along the rail and then broke into quiet laughter in three places at 
 
 Draeven reached the rail and stood a half step behind the crowd with his hands clasped. He watched the faces first and the world second. Security did its slow scan of the room and then did it again because the body likes to have a job when the heart is busy.
 
-Mira arrived in a clean jacket with tape still at one wrist. She stopped two paces from the glass, took in a breath as if the air had flavor, and let it go in a way that did not look like relief but sounded like it.
+Mira arrived in a clean jacket with tape still at one wrist. She stopped two paces from the glass, took in a breath as if the air had flavor, and let it go in a way that sounded like relief.
 
-Elias stood beside her. He carried nothing. No slate, no pen. He let his eyes rest on the green and the cloud and the light. The lines on his face did not leave, but they changed their meaning.
+Elias stood beside her. He carried nothing. No slate, no pen. He let his eyes rest on the green and the cloud and the light. The lines on his face remained, and their meaning changed.
 
 Joren leaned close enough for his sleeve to touch Kaela's. "It looks like a promise," he said.
 
@@ -140,7 +140,7 @@ Mira exhaled once more and looked to Elias. "I will pack a small kit," she said.
 
 He meant the words and she let that be enough.
 
-Kaela looked from the glass to her father and saw something in his face that had not visited in many months. It was not ease. Ease did not live on this ship. It was a softer gear, something like readiness that did not hurt.
+Kaela looked from the glass to her father and saw a change in his face unseen for many months. Ease had no place on this ship. What she saw was a softer gear, a kind of readiness that eased the strain.
 
 She lifted a hand to Joren. "Go," she said. "Deliver what needs to be delivered. Then come back and tell me what water looks like when it belongs to a horizon."
 

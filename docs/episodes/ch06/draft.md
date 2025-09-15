@@ -54,7 +54,7 @@ The plate above her hand brightened along the hinge. Filaments in the window dre
 
 She capped the syringe, set it back, and moved to the second window. Another line, another local bath, another clean cut. The smell settled into the room, mineral and faintly sweet, clinical and unsettling because it told the truth about life far from home.
 
-She set a second slide and saw a small shape in the smear, not a cell round like a coin, but an oval with fine ribs, built to flex. Under the lens, the oval flexed twice, slow, as if tasting a room it did not know.
+She set a second slide and saw a small shape in the smear, an oval with fine ribs, built to flex. Under the lens, the oval flexed twice, slow, as if testing a new room.
 
 "Microscopy reads live flexion on smear," she said. "Mark slide as three. Set aside for freeze in thirty."
 
@@ -136,7 +136,7 @@ The comm clicked. Elias spoke without raising or lowering his voice. "Mira," he 
 
 "I am safe," she said. "The specimen is not."
 
-A quiet filled the line. It was not empty. It was a shape that held a truth neither of them wanted.
+A quiet filled the line. The quiet held a shape that pressed on an unwelcome truth.
 
 "I am coming to the window," Elias said. "You will not open that door until the full cycle clears."
 

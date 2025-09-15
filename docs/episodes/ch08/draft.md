@@ -152,7 +152,7 @@ Veynar stepped into the bay long enough to stand in the doorway and weigh the ro
 
 "Understood," the team echoed.
 
-Morlin slapped the case once, not for drama, just to mark the end. "Keys stay on me," he said. "If you need a swap, you ask. I will be at the rail with the second team. If you come back with a story about a gun saving your day, I will listen. If you come back and say you never touched it, I will sleep better."
+Morlin slapped the case once, not for drama, just to mark the end. "Keys stay on me. Ask for a swap. I will be at the rail with the second team. Come back with a story about a gun saving your day, and I will listen. Come back and say you never touched it, and I will sleep better."
 
 Rovell grinned and let it stop where it should. "I plan to sleep better," he said.
 
