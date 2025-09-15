@@ -250,7 +250,7 @@ Nyra stepped closer with her slate and turned it so the heat band map faced them
 
 "We will," Draeven said. "Not today."
 
-Across the bay, the cage door faced a window with privacy film. Behind it, a light lifted and fell as if someone were breathing very quietly. Later, Mira would explain it was simply the cooling pads settling into their rhythm. It was not a soul or a sleep, just a pattern waiting to be understood.
+Across the bay, the cage door faced a window with privacy film. Behind it, a light lifted and fell like a quiet breath. Later, Mira would say the cooling pads were settling into rhythm, a pattern to study.
 
 "Medical," Draeven said. "You have a living Sunfan inbound to glass in one hour."
 
@@ -268,7 +268,7 @@ Elias stood at the console with the room dimmed to a soft gray. Behind the safet
 
 Mira set a fingertip on the control and brought the note up just enough to rest on the skin. The sound did not fill the room. It sat where it had been placed and asked nothing.
 
-A faint light along the plate's hinge brightened for a moment and faded. It was not confirmation, nor was it a victory. It was simply a greeting.
+A faint light along the plate hinge brightened and then faded. The moment stood as a first sign.
 
 Mira saw it too. "I have it," she said. "Mark one small response at the root."
 
