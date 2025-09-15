@@ -1,36 +1,36 @@
 #!/usr/bin/env python3
 import re, sys, pathlib
 
-# --- Patterns ---
+# Apostrophes (straight or curly)
 APO = r"[\'’]"
 
-# Contractions (allow possessive 's like "Elias’s")
-ALWAYS_CONTRACTIONS = re.compile(
-    rf"\b\w+{APO}(?:n[tT]|re|ve|ll|d|m)\b"
-)
+# True contractions (leave possessives alone)
+ALWAYS_CONTRACTIONS = re.compile(rf"\b\w+{APO}(?:n[tT]|re|ve|ll|d|m)\b")
 _S_WORDS = ("it","that","there","here","where","who","what","how","when","why",
             "he","she","we","they","you","let")
-S_CONTRACTIONS = re.compile(
-    rf"\b(?:{'|'.join(_S_WORDS)}){APO}[sS]\b"
-)
+S_CONTRACTIONS = re.compile(rf"\b(?:{'|'.join(_S_WORDS)}){APO}[sS]\b")
 
+# Em dashes, digits, and symbols
 EM_DASH_RE = re.compile("\u2014")
 DIGIT_RE = re.compile(r"\d")
 SYMBOL_RE = re.compile(r"[#$%&@]")
 
-# Chapter title line matcher (e.g., "# Chapter 01 - Title" or "Chapter 08 — Title")
+# Title line pattern (skip digit warnings there)
 TITLE_RE = re.compile(r"^\s*(?:#{1,6}\s*)?(?:Chapter|CHAPTER)\s+\d+\b")
+
+# Style checks (single-sentence scope)
+NEG_CHAIN = re.compile(r"\bnot\s+\w+(?:\s*,\s*not\s+\w+)+(?:\s*,\s*but\s+\w+)?", re.I)
+NOT_BUT = re.compile(r"\bnot\b[^.?!]{0,200}\bbut\b", re.I)
+NEITHER_NOR = re.compile(r"\bneither\b[^.?!]{0,200}\bnor\b", re.I)
+IT_WAS_NOT = re.compile(r"\bit was not\b", re.I)
+MAXIM_CADENCE = re.compile(r"\bIf\b[^.]{0,80}\bI will\b[^.]*\.\s*\bIf\b[^.]{0,80}\bI will\b", re.I)
 
 def lint(text: str):
     warnings = []
-
-    # Find first non-empty line index (1-based)
     lines = text.splitlines()
-    title_idx = None
-    for idx, ln in enumerate(lines, 1):
-        if ln.strip():
-            title_idx = idx
-            break
+
+    # First non-empty line for title detection
+    title_idx = next((i for i,l in enumerate(lines,1) if l.strip()), None)
 
     for i, line in enumerate(lines, 1):
         # Contractions
@@ -41,14 +41,27 @@ def lint(text: str):
         if EM_DASH_RE.search(line):
             warnings.append((i, "em-dash", line.rstrip()))
 
-        # Digits (spell numbers) — but skip if this is the chapter title line
+        # Digits (skip chapter title)
         if not (title_idx == i and TITLE_RE.search(line)):
             if DIGIT_RE.search(line):
                 warnings.append((i, "digit", line.rstrip()))
 
-        # Symbols to spell out (tune as needed)
+        # Symbols to spell
         if SYMBOL_RE.search(line):
             warnings.append((i, "symbol", line.rstrip()))
+
+        # Style: negation / opposites / maxims
+        if NEG_CHAIN.search(line):
+            warnings.append((i, "style-negation-chain", line.rstrip()))
+        else:
+            if NOT_BUT.search(line):
+                warnings.append((i, "style-not-but", line.rstrip()))
+            if NEITHER_NOR.search(line):
+                warnings.append((i, "style-neither-nor", line.rstrip()))
+            if IT_WAS_NOT.search(line):
+                warnings.append((i, "style-it-was-not", line.rstrip()))
+            if MAXIM_CADENCE.search(line):
+                warnings.append((i, "style-maxim-cadence", line.rstrip()))
 
     return warnings
 
@@ -68,7 +81,7 @@ def main():
         if warns:
             print(f"== {p} ==")
             for ln, kind, snippet in warns:
-                print(f"  L{ln:>4}  {kind:11}  {snippet}")
+                print(f"  L{ln:>4}  {kind:21}  {snippet}")
             exit_code = 1
     sys.exit(exit_code)
 

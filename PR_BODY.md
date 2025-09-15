@@ -1,11 +1,14 @@
 ## Summary
-Sync repository canon to the attached Master Canon. Adds and updates core pages, selection mechanics, style, timeline, and character cards. Updates nav.
+Tighten style guidance and optional lint checks to remove negative chaining and rhetorical opposites, and to avoid overly poetic structures.
 
-## Checklist
-- [x] Characters and canon pages updated
-- [x] Audio rules aligned
-- [x] Timeline synced to current arc
-- [x] No contractions, digits, or em dashes in canon pages
+### Changes
+- **docs/canon/style_guide.md** — adds:
+  - “Clarity over negation” with concrete before/after examples.
+  - “Avoid rhetorical opposites” guidance.
+  - “Keep figurative language restrained” guidance.
+  - A **Chapter 09** trail example with the preferred rewrite.
+- **docs/canon/prose_patterns.md** — quick “do / do not” sheet.
+- **tools/lint_audio.py** — optional warnings:
+  - `style-negation-chain`, `style-not-but`, `style-neither-nor`, `style-it-was-not`, `style-maxim-cadence`.
 
-## Notes
-This PR does not change weapons pages. It links the Article twelve wording and lexicon used going forward.
+> Note: CI already lints only chapters. These new checks focus on single-sentence patterns to minimize noise.

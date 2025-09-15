@@ -31,3 +31,14 @@ nav:
       - Restricted, Dax: weapons/restricted_dax.md
   - Episodes:
       - Template: episodes/templates/episode_template.md
+  # BEGIN AUTO-EPISODES
+  - Episodes:
+      - Chapter 1: episodes/ch01/draft.md
+      - Chapter 2: episodes/ch02/draft.md
+      - Chapter 3: episodes/ch03/draft.md
+      - Chapter 4: episodes/ch04/draft.md
+      - Chapter 5: episodes/ch05/draft.md
+      - Chapter 6: episodes/ch06/draft.md
+      - Chapter 7: episodes/ch07/draft.md
+      - Chapter 8: episodes/ch08/draft.md
+  # END AUTO-EPISODES
