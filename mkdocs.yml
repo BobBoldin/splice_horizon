@@ -1,0 +1,29 @@
+site_name: Splice Horizon — Orivay Canon
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Canon:
+      - World Bible: canon/world_bible.md
+      - Audio Rules: canon/audio_rules.md
+      - Timeline: canon/timeline.md
+      - Weapons Primer: weapons/primer.md
+      - Restricted Armory (Dax): weapons/restricted_dax.md
+  - Characters:
+      - Elias Tharros: characters/elias_tharros.md
+      - Liora Tharros: characters/liora_tharros.md
+      - Kaela Tharros: characters/kaela_tharros.md
+      - Joren Vale: characters/joren_vale.md
+      - Mira Jeylan: characters/mira_jeylan.md
+      - Rhea Halden: characters/rhea_halden.md
+      - Nyra Solwyn: characters/nyra_solwyn.md
+      - Commander Aric Veynar: characters/aric_veynar.md
+      - Councillor Hollis Venner: characters/hollis_venner.md
+      - Councillor Kaldor Mirea: characters/kaldor_mirea.md
+      - Clerk Evan Trusell: characters/evan_trusell.md
+      - Dax Morlin: characters/dax_morlin.md
+      - Renn Afolu: characters/renn_afolu.md
+      - Tamsin Vorel: characters/tamsin_vorel.md
+      - Director Amaris Colvern: characters/amaris_colvern.md
+  - Episodes:
+      - Guide: episodes/templates/episode_template.md
