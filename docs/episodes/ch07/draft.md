@@ -20,7 +20,7 @@ The Advocate lifted her folder. "For the record," she said, "I request that the 
 
 "Bound," the Arbiter said. "We will mark those terms."
 
-He turned to the families. "We now address selection. Volunteer priority stands. The shortfall clause may only trigger if the target number cannot be met in the quarter and after Advocate review. Today we have three volunteers and two open slots. If volunteers remain short by the last week of the quarter, **one adult per household per year** may be called by lottery. The lottery is subject to medical screening, Advocate presence, and right of appeal."
+He turned to the families. "We now address selection. Volunteer priority stands. The shortfall clause may only trigger if the target number cannot be met in the quarter and after Advocate review. Today we have three volunteers and two open slots. If volunteers remain short by the last week of the quarter, selection will proceed by Continuance Rotation under Section Fifteen of the Venture Bond. The rotation calls one adult per household per year from those with open medical service obligations. Minors are barred. A household may present a substitute volunteer of equal or closer indication. Hardship cases may seek relief through the Advocate panel. All selections require Tribunal consent, full medical screening, Advocate presence, and right of appeal."
 
 A woman with a woven scarf stepped forward with her partner. She held a slate with both hands and kept her chin level. "Maris Delane," she said. "I volunteer. I am mid-stage. I have read the packet twice."
 
@@ -38,7 +38,7 @@ The Advocate stood with her. "I have counseled Maris," she said. "She understand
 
 He looked to the room. "We have two remaining slots and two additional volunteers present for screening. If those do not hold, the shortfall clause will be discussed at the end of the week. I will read the clause in plain words for those who are new to this room."
 
-He read from a printed sheet. "When the quarter ends short of needed participants and no additional volunteers qualify, the Continuance Charter permits a draw of **one adult per household per year**. Exclusions apply to minors, to those with critical medical exemptions, and to holders of essential duty posts under alert. The Advocate will verify that the call is lawful and humane. Any called person may appeal to this Tribunal. No household may be called twice in a year."
+He read from a printed sheet. "When the quarter ends short of needed participants and no additional volunteers qualify, the Continuance Charter permits a Continuance Rotation under Section Fifteen of the Venture Bond. The rotation calls one adult per household per year from households with open medical service obligations. Exclusions apply to minors, to those with critical medical exemptions, and to holders of essential duty posts under alert. A called household may name a substitute volunteer of equal or closer medical indication. The Advocate panel hears hardship requests and may grant relief. The Advocate will verify that each call is lawful and humane. Any called person may appeal to this Tribunal. No household may be called twice in a year."
 
 A murmur moved through the benches and then quieted.
 
@@ -56,7 +56,7 @@ A panelist leaned toward his mic. "Yesterday's incident in P D three," he said. 
 
 "It changes our attention," Elias said. "The plan stays narrow. We pause any use of yesterday's late data until the review is complete."
 
-The Arbiter lifted his palm. "Here is the ruling," he said. "The Tribunal grants a conditional green for Phase-Beta on a cohort of five, one at a time, with Advocate oversight in prep and continuous monitoring. We bind Medical to the narrow indication described. We bind the quarter's shortfall discussion to the last week, and we bind any draw to full screening and appeal. The lab incident review will be recorded before the second patient proceeds."
+The Arbiter lifted his palm. "Here is the ruling," he said. "The Tribunal grants a conditional green for Phase-Beta on a cohort of five, one at a time, with Advocate oversight in prep and continuous monitoring. We bind Medical to the narrow indication described. We bind the quarter's shortfall discussion to the last week, and we bind any rotation call to full screening, Advocate presence, and right of appeal. The lab incident review will be recorded before the second patient proceeds."
 
 He struck the small chime. The sound was thin and final.
 
