@@ -1,76 +1,61 @@
-# Style Guide (Updated)
+# Style Guide
 
-This guide controls narration and dialogue so the audiobook remains clear and engaging.
+This guide keeps narration and dialogue clear for performance.
 
 ## Core audio rules
-- No contractions in narration or dialogue.
-- Numbers and symbols are spelled (for example, “ten,” “percent”).
-- No em dash characters.
-- Dialogue is conversational. Narration carries senses and context.
-- Scene transitions are spoken by the narrator. Characters do not label transitions.
+
+- Action-first, dialogue-last is the default.  
+  *Beat.* “Line.”
+
+- If a tag is required, place it before the quote with a comma. Use plain verbs.  
+  *Nyra said,* “First sip.”
+
+- No em dashes. Use periods or colons.  
+  “The talk turned easy: small pieces of the day.”
+
+- No ellipses. Use a brief sentence or a beat for silence.
+
+- Numbers are spelled where practical.  
+  “Twenty five years.” “Two notes.”
+
+- Scene transitions are spoken by the narrator. Characters do not announce them.
 
 ## Clarity over negation
-Prefer direct description to negative framing.
 
-**Do**
-- “The skiff found its line and held steady.”
-- “The room was quiet.”
+Prefer direct description to negative framing.  
+- Do: “The room was quiet.”  
+- Do not: “The room was not loud.”
 
-**Do not**
-- “It was not a stumble; it was a glide.”
-- “The room was not loud.”
+Avoid “not X, but Y” constructions. State what it is.
 
-### Avoid chained negation formulas
-Avoid patterns like **“not a this, not a that, but a …”** or **“neither … nor … but ….”** Replace with a plain affirmative line.
+## Figurative language
 
-**Before:** “Not a hoof. Not a paw. A body that drags a part of itself and then lifts it. Maybe a tail that acts like a third limb.”
-**After:**  “It does not look like hoofprints or paw marks. Something drags part of itself, then lifts it — a tail, maybe, working like a third limb.”
-
-**Before:** “It was not music; it was machinery.”
-**After:**  “The machinery kept time.”
-
-## Avoid rhetorical opposites
-Do not hinge sentences on binary opposites such as **“not X, but Y.”** State what it is, not what it is not.
-
-**Before:** “Not fear, not anger, but resolve.”
-**After:**  “He was resolved.”
-
-**Before:** “The dune did not threaten; it invited.”
-**After:**  “The dune sloped gently and drew them forward.”
-
-## Keep figurative language restrained
-Use light, grounded imagery. Avoid poetic flourishes that personify terrain or turn into aphorisms.
-
-**Before:** “Rocks want to tell a story.”
-**After:**  “Fractures and bands showed age.”
-
-**Before:** “If a thought helps, I will speak. If silence helps, I will keep it.”
-**After:**  “I will speak when guidance is needed. Otherwise, collect samples.”
-
-Limit figurative lines to one per scene, and only if it aids understanding.
+Keep imagery light and concrete. One image per beat if it truly helps understanding.
 
 ## Dialogue tone
-- Use natural cadence. Avoid clipped stacks of four to six word sentences.
-- Characters do not speak in maxims or slogans.
-- Keep technical terms concrete and short when possible.
 
-## Worldbuilding and science
-- Introduce terms with a plain anchor (“glassback grazer, a small plated herbivore”).
-- Use function-first descriptions in the field (“plates bend glare and shed heat”).
+- Natural cadence. Avoid stacks of clipped four to six word sentences.  
+- Characters do not speak in slogans or maxims.  
+- Keep technical terms concrete and short.
 
-## Transitions
-- The narrator signals new scenes (“Morning on Procurement Deck Two…”).
-- Characters do not say “spoken transition.”
+## Radio and PA patterns
 
-## Quick self-check before commit
-- Search for: `not`, `neither`, `nor`, `but` in the same sentence.
-- Replace negative frames with direct statements.
-- Remove aphoristic pairs (“If X, then Y. If Z, then W.”).
-- Read dialogue aloud for natural flow.
+- Brevity with character cue.  
+  - “Copy.” *Dax kept the cadence even.*  
+  - “Copy.” *Hale read the mirror line true.*
 
-## Concrete rewrite example (Chapter 09)
-**Before:**  
-Renn laid a flag at the start of the marks. “Heavy traveler,” he said. “Not a hoof. Not a paw. A body that drags a part of itself and then lifts it. Maybe a tail that acts like a third limb.”
+- Put comms context in the beat, not the tag.  
+  - *Elias came over comms.* “Now.”
 
-**After (preferred):**  
-Renn placed a marker at the start of the trail. “Whatever made this was heavy,” he said. “It does not look like hoofprints or paw marks. Something drags part of itself, then lifts it — a tail, maybe, working like a third limb.”
+## Quick self-check
+
+- Can this line be written as: *Beat.* “Line.”  
+- If a tag remains, is it before the quote with a comma.  
+- Exactly one concrete beat.  
+- No em dashes and no ellipses.  
+- Numbers spelled.
+
+## Concrete rewrite sample
+
+**Before:** “Public channel,” Nyra said softly. “This is a notice to habitat services. Short transport along the basin path. Dust control will be light. Thank you.”  
+**After:** *Nyra opened the public channel,* “Notice to habitat services. Short transport along the basin path. Dust control will be light. Thank you.”
