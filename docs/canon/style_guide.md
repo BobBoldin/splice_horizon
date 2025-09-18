@@ -55,6 +55,11 @@ Keep imagery light and concrete. One image per beat if it truly helps understand
 - No em dashes and no ellipses.  
 - Numbers spelled.
 
+## Dialogue Quotes
+
+- Always use straight ASCII double quotes (") for dialogue.
+- Do not use curly “smart quotes” or other Unicode quotation marks.
+
 ## Concrete rewrite sample
 
 **Before:** “Public channel,” Nyra said softly. “This is a notice to habitat services. Short transport along the basin path. Dust control will be light. Thank you.”  
