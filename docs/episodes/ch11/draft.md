@@ -68,7 +68,7 @@ They moved on: one to a briefing, one to write consent language anyone could und
 
 An hour later, in Conference Room Six, the recorder was off. They shut the door and the room went quiet.
 
-Commander Aric Veynar sat at the head of the long table, hands flat on the wood. Across from him, Director Amaris Colvern's badge caught the low light. A third chair held a man in a plain gray jacket, Colonel Rane from tactical. Next to him sat Serano from the Advocate's office, eyes tired but steady. The air smelled like coffee and old paper.
+Commander Aric Veynar sat at the head of the long table, hands flat on the wood. Across from him, Director Amaris Colvern's badge caught the low light. A third chair held a woman in a plain gray jacket, Colonel Rane from tactical. Next to her sat Serano from the Advocate's office, eyes tired but steady. The air smelled like coffee and old paper.
 
 Veynar did not bother with a greeting. "We've been pushing families into the Meridian under Continuance Rotation to hit volunteer quotas." He tapped the table. "That worked. We filled the slots and the program kept moving."
 
